@@ -2,7 +2,7 @@
 
 - That's my first dashboard
 - I developed it using a SalesForce Database called SuperStore
-- I made it as a result of a mentoring process with a Data Specialist, thank's Giu <3 
+- I made it as a result of a mentoring process with a Data Specialist 
 - Looking foward to the next ones!
 ##
 
